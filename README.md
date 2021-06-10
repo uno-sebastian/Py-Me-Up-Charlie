@@ -1,6 +1,6 @@
-# Sebastian's Python Challenge - Py Me Up, Charlie
+# Py Me Up, Charlie
 
-Hello! This is a demo project where I experimented with some scripts in python. Below are the goals I intend to achieve.
+Hello! This is a demo project where I experimented with some scripts in python.
 
 * Inside of each folder:
 
